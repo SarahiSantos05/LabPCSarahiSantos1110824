@@ -13,6 +13,7 @@ match mesEntrada:
         mesSalida = "Abril"
     case 5:
         mesSalida = "Mayo"
+    case 6:
         mesSalida = "Junio"
     case 7:
         mesSalida = "Julio"
